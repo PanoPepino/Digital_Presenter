@@ -3,7 +3,7 @@ Files of python and Manim libraries created to display a digital presenter creat
 
 - Note that you may have to change the position of shoulders, eyes, body, hands, depending on the new figures you add.
 - The .csv file must not have an extra line in the end. It gives error. This requires to be fixed.
-- The .csv file will be read and two lists will be created; one with emotions that the creature will represent and one with things to say, that will be written on the screen with Type animation (Abulafia)
+- The .csv file will be read and two lists will be created; one with emotions that the creature will represent and one with things to say, that will be written on the screen with Type animation (Abulafia) or calling them manually.
 - Here you can see a video:
 
 
