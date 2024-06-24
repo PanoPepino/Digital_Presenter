@@ -16,5 +16,9 @@ Files of python and Manim libraries created to display a digital presenter creat
 
 
 
+https://github.com/PanoPepino/digital_presenter/assets/106378545/485839cf-4118-4f7c-86d0-20bcb2fefef4
+
+
+
 
 
