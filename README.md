@@ -13,10 +13,9 @@ Files of python and Manim libraries created to display a digital presenter creat
 - The .csv file will be read and two lists will be created; one with emotions that the creature will represent and one with things to say, that will be written on the screen with Type animation (Abulafia)
 - Here you can see a demo:
 
-
-
-
 https://github.com/PanoPepino/digital_presenter/assets/106378545/485839cf-4118-4f7c-86d0-20bcb2fefef4
+
+- A more advanced example can be found in: https://www.youtube.com/watch?v=MEuX53M5mBU&list=PL7qJnArvRQzHci5IAHRqCuS2eF4_baHTR
 
 
 
