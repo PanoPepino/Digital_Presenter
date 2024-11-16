@@ -1,4 +1,3 @@
-from ast import iter_child_nodes
 from manim import *
 from creature_files import *
 from animation_files import *
@@ -39,7 +38,7 @@ class Example (Scene):
             53: next(script_example), # 18
             56: next(script_example), # 19
             59: next(script_example), # 20
-            62: next(script_example), # 21
+            61: next(script_example) # 21
         }
         self.play(FadeIn(bloby, text_box))
         play_timeline(self, timeline)

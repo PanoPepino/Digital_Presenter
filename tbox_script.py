@@ -4,7 +4,7 @@ import csv
 # Tex properties. Important to adjust enviroment and font depending on the size of the box.
 Tex.set_default(tex_template=TexFontTemplates.comic_sans)
 Tex.set_default(color = WHITE)
-tex_env = "{minipage}{9cm}"
+tex_env = "{minipage}"
 font_tex = 35
 
 # Dialogue and Actions
@@ -28,7 +28,7 @@ text_box.set_sheen_direction(0.5*DOWN)
 triangle_next_text = Triangle(color = [DARK_BLUE, BLACK], fill_opacity = 0.8).rotate(PI/3).scale(0.15).next_to(text_box, RIGHT, buff = -0.6)
 
 # Creating the tex group with the text
-text_example = VGroup(*[Tex(line, tex_environment = tex_env, font_size = font_tex) for line in dialogue_example]).move_to(text_box.get_center())
+text_example = VGroup(*[Tex(line,  font_size = font_tex) for line in dialogue_example]).move_to(text_box.get_center())
 
 
 
